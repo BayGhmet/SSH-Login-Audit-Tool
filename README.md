@@ -18,3 +18,7 @@ Ubuntu Linux，已开启SSH服务
 chmod +x ssh_audit.sh
 # 执行审计脚本
 sudo bash ssh_audit.sh
+```
+
+### 审计运行示例
+![运行截图](https://raw.githubusercontent.com/BayGhmet/SSH-Login-Audit-Tool/main/ssh_audit.png)
